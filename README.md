@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ali Falah, my friends call me shadow
-- 👀 I’m interested in ROS2, c++, and computer vision
+- 👋 Hi, I’m Ali Falah, and my friends call me Shadow
+- 👀 I’m interested in ROS2, C++, and computer vision
 - 🌱 I’m currently learning C++
 
 
