@@ -5,7 +5,7 @@ I am a Robotics Research Engineer with a passion for pushing the boundaries of w
 My primary areas of interest include environment perception, reinforcement learning, and computer vision.
 </p>
 
-![Your Picture](/home/humdalab/Ali-Falah-Humda/IMG_1788.jpg)
+![Your Picture](IMG_1788.jpg)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-313131?style=for-the-badge&logo=gmail&logoColor=red)](mailto:al.r.falah@gmail.com)
 
