@@ -11,9 +11,10 @@ My primary areas of interest include environment perception, reinforcement learn
 
 > "Given two rewarding stimuli, animals tend to choose the more rewarding (or less effortful) option. However, they also move faster toward that stimulus."
 
+<!--
 ![Your Picture](DSC097652.jpg)
 
-<!--
+
 ```python
 def main():
     name = "[Your Name]"
