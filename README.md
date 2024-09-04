@@ -2,7 +2,7 @@
 
 <p align='left'>
 I am a Robotics Research Engineer with a passion for pushing the boundaries of what's possible in autonomous systems.
-My primary areas of interest include environment perception, reinforcement learning, and computer vision.
+My primary areas of interest include environment perception, simulations, abd reinforcement learning.
 </p>
 
 ![A2RL](IMG_1788.jpg)
